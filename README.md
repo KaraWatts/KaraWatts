@@ -5,11 +5,16 @@
 
  [comment]: <> ( <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" >)
 
-<h1><font color=#de64d1>Kara Watts</font></h1>
-<h2><font color=#76b6c4>Software Developer</font></h2>
+<h1>Kara Watts</h1>
+<h2>Software Developer</h2>
+<h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r,html,css,vscode,github,git" />
+</div>
+<br>
 
 <div align="center">
-<font color=#2596be>
+
 <p>
 Hi, I'm Kara 👋. I'm an animal behaviorist transitioning into the world of software development. Currently studying with CodePlatoon, I am developing skills in Python, JavaScript, HTML, and CSS. If you follow my repositories over the next several months you'll find a plethora of coding exercises and projects as I hit the ground running.
 </p>
@@ -20,28 +25,43 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
  
  <!-- 🔭 I’m currently working on **a project** -->
  
- 👩‍💻 I’m currently learning **Python, JavaScript, HTML/CSS**
-
 💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light**
 
 ⚡ Fun fact **Dolphins can see almost 360 degrees around their head and have 2 pupils 👀**
 
 </div>
 
-<div>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" height="165">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=neon" height="165">
-</p>
-</font>
+
+
+<h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=r,html,css,vscode,github,git" />
+    
+
+
+<br>
 </div>
 
 
 
 
-<h3 align="center"><font color=#76b6c4>Connect with me if you'd like to join the adventure.<font></h3>
+
+<div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=nightowl" width="400">
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
+</div>
+
+
+
+
+<h3 align="center">Connect with me if you'd like to join the adventure.</h3>
 <p align="center">
-<a href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="100" width="100" /></a>
+<a href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
 <a href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
 </p>   
 
