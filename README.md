@@ -41,12 +41,8 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,linux" alt="python,javascript,html,css,react,and linux"/>
-    
-
-
-</br>
 </div>
-
+<br>
 <div>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats">
