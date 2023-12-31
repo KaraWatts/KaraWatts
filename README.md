@@ -9,14 +9,14 @@
 <h2>Software Developer</h2>
 <h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=r,vscode,github,git" />
 </div>
 <br>
 
 <div align="center">
 
 <p>
-Hi, I'm Kara 👋. I'm an animal behaviorist transitioning into the world of software development. Currently studying with CodePlatoon, I am developing skills in Python, JavaScript, HTML, and CSS. If you follow my repositories over the next several months you'll find a plethora of coding exercises and projects as I hit the ground running.
+Hi, I'm Kara 👋. I'm an animal behaviorist transitioning into the world of software development. Currently studying with CodePlatoon, I am developing skills in Python, JavaScript, HTML, and CSS. If you follow my repositories over the next several months, you'll find a plethora of coding exercises and projects as I hit the ground running.
 </p>
 <p>
 As I embark on this journey, I plan to advance my skills to be applied toward the development of applications and technologies research in conservation and animal welfare. I believe learning is a life-long adventure with opportunities where we least expect them. As such, I am eager to join an organization with opportunities for growth and innovation where I can apply my skills and passion to further not only my own goals but those of the team.
@@ -38,7 +38,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,linux" alt="currently learning"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,linux" alt="currently learning"/>
     
 
 
