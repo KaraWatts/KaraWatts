@@ -3,7 +3,7 @@
     <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Banner.png">
 <d/iv>
 
- [comment]: <> ( <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" >)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" >
 
 <h1>Kara Watts</h1>
 <h2>Software Developer</h2>
