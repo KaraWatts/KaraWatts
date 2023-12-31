@@ -29,8 +29,8 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 
 ✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
-⚡ Fun fact **Dolphins can see almost 360 degrees around their head and have 2 pupils 👀**
-🧶
+⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
+
 </div>
 
 
