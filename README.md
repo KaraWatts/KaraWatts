@@ -44,12 +44,8 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
     
 
 
-<br></br>
+</br>
 </div>
-
-
-
-
 
 <div>
 <p>
