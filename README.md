@@ -27,6 +27,8 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
  
 💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light**
 
+✨ Current Hobbies **Learn Japanese, Crochet, Guitar**
+
 ⚡ Fun fact **Dolphins can see almost 360 degrees around their head and have 2 pupils 👀**
 
 </div>
@@ -36,7 +38,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,linux" alt="currently learning"/>
     
 
 
@@ -51,7 +53,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=nightowl" width="400">
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
 
 
 </div>
