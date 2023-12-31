@@ -52,13 +52,15 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 
 
 <div>
-
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats">
-
+</p>
+<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=nightowl" width="400" alt="Kara Watts' GitHub Commit Streak">
-
+</p>
+<p>
 <img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" />
-
+</p>
 
 </div>
 
