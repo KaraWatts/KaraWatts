@@ -27,10 +27,10 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
  
 💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light**
 
-✨ Current Hobbies **Learn Japanese, Crochet, Guitar**
+✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
 ⚡ Fun fact **Dolphins can see almost 360 degrees around their head and have 2 pupils 👀**
-
+🧶
 </div>
 
 
@@ -42,7 +42,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
     
 
 
-<br>
+<br></br>
 </div>
 
 
