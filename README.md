@@ -3,13 +3,13 @@
     <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Banner.png">
 <d/iv>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" >
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" alt="number of page visitors">
 
 <h1>Kara Watts</h1>
 <h2>Software Developer</h2>
 <h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=r,vscode,github,git" alt="r,vscode,github,and git"/>
 </div>
 <br>
 
@@ -38,7 +38,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,linux" alt="currently learning"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,linux" alt="python,javascript,html,css,react,and linux"/>
     
 
 
@@ -51,9 +51,9 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 
 <div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=nightowl" width="400">
-<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaraWatts&theme=nightowl" width="400" alt="Kara Watts' GitHub Commit Streak">
+<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" />
 
 
 </div>
