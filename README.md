@@ -27,7 +27,7 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
  
  <!-- 🔭 I’m currently working on **a project** -->
  
-💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light**
+💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light, or anything else!**
 
 ✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
