@@ -7,7 +7,7 @@
 
 <h1>Kara Watts</h1>
 <h2>Software Developer</h2>
-<h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
+<h3 align="center">Languages-Frameworks-Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=r,vscode,github,git" alt="r,vscode,github,and git"/>
 </div>
