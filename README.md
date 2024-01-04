@@ -44,14 +44,13 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 </div>
 <br>
 <div>
+
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats">
-</p>
-<p>
-<img align="center" src="https://github-readme-streak-stats-ivory-three.vercel.app?user=KaraWatts&theme=nightowl&date_format=j%20M%5B%20Y%5D" width="400" alt="Kara Watts' GitHub Commit Streak">
-</p>
-<p>
-<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" />
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a>
+    <br>
+    <!-- <a><img align="center" src="https://github-readme-streak-stats-ivory-three.vercel.app?user=KaraWatts&theme=nightowl&date_format=j%20M%5B%20Y%5D" width="400" alt="Kara Watts' GitHub Commit Streak"></a> -->
+    <br>
+    <a><img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" /></a>
 </p>
 
 </div>
