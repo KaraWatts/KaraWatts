@@ -9,7 +9,10 @@
 <h2>Software Developer</h2>
 <h3 align="center">Languages-Frameworks-Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,vscode,github,git" alt="r,vscode,github,and git"/>
+    <a href="https://www.r-project.org" target="blank"><img src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
+    <a href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
+    <a href="https://github.com" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
+    <a href="https://git-scm.com" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
 </div>
 
 
@@ -40,7 +43,13 @@ As I embark on this journey, I plan to advance my skills to be applied toward th
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,linux" alt="python,javascript,html,css,react,and linux"/>
+    <a href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
+    <a href="https://react.dev" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
+    <a href="https://ubuntu.com" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux icon"/></a>
+   
 </div>
 <br>
 <div>
