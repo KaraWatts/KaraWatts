@@ -40,6 +40,7 @@ I plan to advance my skills to be applied toward the development of applications
 
 
 
+<a id="connect_with_me"></a>
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
@@ -64,8 +65,7 @@ I plan to advance my skills to be applied toward the development of applications
 </div>
 
 
-<a id="connect_with_me"></a>
-### Connect with me here if you'd like to join the adventure
+### Connect with me if you'd like to join the adventure
 
 <a href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
 <a href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
