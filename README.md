@@ -30,7 +30,7 @@ I plan to advance my skills to be applied toward the development of applications
  
  <!-- 🔭 I’m currently working on **a project** -->
  
-💬 Ask me about **Manatee Vision, Dolphin Echolocation, UV light, or anything else!**
+💬 Ask me about **Manatee Vision, Dolphin Echolocation, or anything else [here](wiki#connect_with_me)
 
 ✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
@@ -64,10 +64,10 @@ I plan to advance my skills to be applied toward the development of applications
 </div>
 
 
+<a id="connect_with_me"></a>
+### Connect with me here if you'd like to join the adventure
 
-<h3 align="center">Connect with me if you'd like to join the adventure.</h3>
-<p align="center">
 <a href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
 <a href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
-</p>   
+<a title="Apple Inc., Public domain, via Wikimedia Commons" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
 
