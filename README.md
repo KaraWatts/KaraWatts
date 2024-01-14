@@ -30,7 +30,7 @@ I plan to advance my skills to be applied toward the development of applications
  
  <!-- 🔭 I’m currently working on **a project** -->
  
-💬 Ask me about **Manatee Vision, Dolphin Echolocation, or anything else [here](#connect_with_me)
+💬 Ask me about **Manatee Vision, Dolphin Echolocation, or anything else [here!](#connect_with_me)**
 
 ✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
