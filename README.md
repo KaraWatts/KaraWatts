@@ -65,9 +65,9 @@ I plan to advance my skills to be applied toward the development of applications
 <a id="connect_with_me"></a>
 
 
-### Connect with me if you'd like to join the adventure
+### Click to connect with me and be a part of the adventure
 
-<a href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
-<a href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
-<a title="Apple Inc., Public domain, via Wikimedia Commons" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
+<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
+<a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
+<a title="Email: kdwwatts@gmail.com" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
 
