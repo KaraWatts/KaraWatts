@@ -40,7 +40,6 @@ I plan to advance my skills to be applied toward the development of applications
 
 
 
-<a id="connect_with_me"></a>
 <h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
 
 <div align="center">
@@ -63,6 +62,7 @@ I plan to advance my skills to be applied toward the development of applications
     <a><img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" /></a>
 </p>
 </div>
+<a id="connect_with_me"></a>
 
 
 ### Connect with me if you'd like to join the adventure
