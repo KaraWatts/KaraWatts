@@ -5,9 +5,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" alt="number of page visitors">
 
-<h1>Kara Watts</h1>
-<h2>Software Developer</h2>
-<h3 align="center">Languages-Frameworks-Tools</h3>
+# Kara Watts
+
+## Software Developer
+### Languages - Frameworks - Tools 
 <div align="center">
     <a title = "R" href="https://www.r-project.org" target="blank"><img src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
     <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
@@ -18,14 +19,13 @@
 
 <br>
 
-<div align="center">
 
-<p>
+
+
 Hi, I'm Kara 👋. I'm an animal behaviorist transitioning into the world of software development. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentGrey) for my Masters Thesis, and have since been looking for ways to optomise animal sciences through technololgy.  Diving headfirst into this endeavor I began studying with CodePlatoon where I'm currentlt building out my full stack development skills. If you follow my repositories during this transitional period, you'll find a plethora of coding exercises and projects as I hit the ground running.
-</p>
-<p>
+
 I believe learning is a life-long adventure with opportunities where we least expect them. As such, I am eager to join an organization with opportunities for growth and innovation where I can apply my skills and passion to further not only my own goals but those of the team.
-</p>
+
 
  
  <!-- 🔭 I’m currently working on **a project** -->
@@ -36,11 +36,10 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
 
-</div>
 
 
 
-<h3 align="center">👩‍💻 Currently Learning 👩‍💻</h3>
+### 👩‍💻 Currently Learning 👩‍💻
 
 <div align="center">
     <a title = "Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
@@ -49,18 +48,14 @@ I believe learning is a life-long adventure with opportunities where we least ex
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
     <a title = "React" href="https://react.dev" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
     <a title = "Linux" href="https://ubuntu.com" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux icon"/></a>
-   
 </div>
 <br>
 <div>
-
-<p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a>
     <br>
     <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=KaraWatts&theme=nightowl&date_format=j%20M%5B%20Y%5D" width="400" alt="Kara Watts' GitHub Commit Streak"></a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" /></a>
-</p>
 </div>
 <a id="connect_with_me"></a>
 
