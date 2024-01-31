@@ -47,7 +47,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
     <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
     <a title = "React" href="https://react.dev" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
-    <a title = "Linux" href="https://ubuntu.com" target="blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux icon"/></a>
+    <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
 </div>
 <br>
 <div>
@@ -62,7 +62,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 ### Click to connect with me and be a part of the adventure
 
-<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
+<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
 <a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
 <a title="Email: kdwwatts@gmail.com" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
 
