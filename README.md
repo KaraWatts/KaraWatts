@@ -47,7 +47,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
     <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
     <a title = "React" href="https://react.dev" target="blank"><img src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
-    <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
+    <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
 </div>
 <br>
 <div>
