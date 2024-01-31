@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Banner.png">
+    <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/Banner.png">
 <d/iv>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" alt="number of page visitors">
