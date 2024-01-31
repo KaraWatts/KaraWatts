@@ -10,7 +10,7 @@
 ## Software Developer
 ### Languages - Frameworks - Tools 
 <div align="center">
-    <a title = "R" href="https://www.r-project.org" target="blank"><img src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
+    <a title = "R" href="https://www.r-project.org" target="_blank"><img src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
     <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
     <a title = "GitHub" href="https://github.com" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
     <a title = "Git" href="https://git-scm.com" target="blank"><img src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
