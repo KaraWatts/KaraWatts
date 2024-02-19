@@ -6,7 +6,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" alt="number of page visitors">
 
 # Kara Watts
-
 ## Software Developer
 
 ### Languages - Frameworks - Tools 
