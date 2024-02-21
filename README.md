@@ -8,6 +8,7 @@
 # Kara Watts
 
 ## Software Developer
+
 ### Languages - Frameworks - Tools 
 <div align="center">
     <a title = "R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
