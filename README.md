@@ -30,7 +30,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
  
  <!-- 🔭 I’m currently working on **a project** -->
  
-💬 Ask me about **Manatee Vision, Dolphin Echolocation, or anything else [here!](#connect_with_me)**
+💬 Lets talk about *tech, animals, or anything else [here!](#connect_with_me)**
 
 ✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
 
