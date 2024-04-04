@@ -48,6 +48,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 <div align="center">
     <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
+    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
 </div>
 <br>
 <div>
