@@ -20,6 +20,7 @@
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
     <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
     <a title = "PostgreSQL" href="https://www.postgresql.org" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
+    <a title = "Django" href="https://www.djangoproject.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
 </div>
 
 
@@ -50,6 +51,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
 <div align="center">
     <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
     <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
+    <a title = "Docker" href="https://www.docker.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=docker" alt="docker icon"/></a>
 </div>
 <br>
 <div>
