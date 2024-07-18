@@ -1,4 +1,3 @@
-lo
 <div align="center">
     <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/Banner.png">
 <d/iv>
