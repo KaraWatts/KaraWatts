@@ -28,7 +28,7 @@
 
 
 
-Hi, I'm Kara 👋. I'm a software engineer transitioning from the world of animal behavior science. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentGrey), a seal foraging simulation model, for my Master's Thesis, and have since been looking for ways to optimize animal sciences through technology.  Diving in headfirst, I began studying with CodePlatoon, a software development bootcamp, where I built out my full-stack development skills. Currently I'm continuing work on projects started during my course including [ManateeWatch](https://github.com/karawatts/manateewatch) and [Changem8.com](https://changem8.com).
+Hi, I'm Kara 👋. I'm a software engineer transitioning from the world of animal behavior science. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentSeal_with_GreySeals/tree/master/AgentSeal-Grey), a seal foraging simulation model, for my Master's Thesis, and have since been looking for ways to optimize animal sciences through technology.  Diving in headfirst, I began studying with CodePlatoon, a software development bootcamp, where I built out my full-stack development skills. Currently I'm continuing work on projects started during my course including [ManateeWatch](https://github.com/karawatts/manateewatch) and [Changem8.com](https://changem8.com).
 
 I believe learning is a life-long adventure with opportunities where we least expect them. As such, I am eager to join an organization with opportunities for growth and innovation where I can apply my skills and passion to further not only my own goals but those of the team.
 
