@@ -40,7 +40,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 ✨ Current Hobbies **Hiking 🏔️, Crochet 🧶, Guitar 🎸**
 
-📚 Reading Stormlight Archives and The First Law [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)
+📚 Reading **Stormlight Archives** and **The First Law** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
 
