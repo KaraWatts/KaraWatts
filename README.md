@@ -38,7 +38,9 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 💬 Lets talk about **tech, animals, or anything else [here!](#connect_with_me)**
 
-✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
+✨ Current Hobbies **Hiking 🏔️, Crochet 🧶, Guitar 🎸**
+
+📚 [Link up on StoryGraph for reading trends](https://app.thestorygraph.com/profile/bookaholic307)
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
 
@@ -55,8 +57,6 @@ I believe learning is a life-long adventure with opportunities where we least ex
 <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a>
-    <br>
-    <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=KaraWatts&theme=nightowl&date_format=j%20M%5B%20Y%5D" width="400" alt="Kara Watts' GitHub Commit Streak"></a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" /></a>
 </div>
