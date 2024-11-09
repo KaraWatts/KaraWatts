@@ -28,7 +28,7 @@
 
 
 
-Hi, I'm Kara 👋. I'm a Full-stack developer with a background in animal behavior science. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentSeal_with_GreySeals/tree/master/AgentSeal-Grey), a seal foraging simulation model, for my Master's Thesis, and have since been looking for ways to optimize animal sciences through technology. My current passion project is [ManateeWatch](https://github.com/karawatts/manateewatch) - a manatee tracking app for casul animal lovers and progessional conservationists alike..
+Hi, I'm Kara 👋. I'm a Full-stack developer with a background in animal behavior science. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentSeal_with_GreySeals/tree/master/AgentSeal-Grey), a seal foraging simulation model, for my Master's Thesis, and have since been looking for ways to optimize animal sciences through technology. My current passion project is [ManateeWatch](https://github.com/karawatts/manateewatch) - a manatee tracking app for casul animal lovers and progessional conservationists alike.
 
 I believe learning is a life-long adventure with opportunities where we least expect them. As such, I am eager to join an organization with opportunities for growth and innovation where I can apply my skills and passion to further not only my own goals but those of the team.
 
