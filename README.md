@@ -53,6 +53,8 @@ I believe learning is a life-long adventure with opportunities where we least ex
     <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
     <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
     <a title = "Docker" href="https://www.docker.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=docker" alt="docker icon"/></a>
+    <a title = "Jupyter Notebooks" href="https://www.jupyter.com" target="blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
+
 </div>
 <br>
 <div>
