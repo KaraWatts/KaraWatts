@@ -40,7 +40,7 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 ✨ Current Hobbies **Hiking 🏔️, Crochet 🧶, Guitar 🎸**
 
-📚 Reading **7 1/2 Deaths of Evalyn Hardcastle** and **Mistborn** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)
+📚 Reading **The Devils** and **Assistant to the Villain** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
 
