@@ -46,7 +46,7 @@ Focused on projects that combine **technology with conservation impact**:
 
 <div align="center">
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
