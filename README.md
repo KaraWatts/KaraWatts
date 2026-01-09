@@ -7,9 +7,9 @@
 
 Hi, I'm Kara 👋. I'm a **full-stack developer** with a background in animal behavior science. I first got into coding while building [AgentGrey](https://github.com/KaraWatts/AgentSeal_with_GreySeals/tree/master/AgentSeal-Grey), a seal foraging simulation, for my Master's thesis. What started as a research tool turned into a genuine love for solving problems with code.
 
-These days, I'm working on [ManateeWatch](https://github.com/karawatts/manateewatch) - a tracking app that helps both casual wildlife enthusiasts and professional conservationists keep tabs on manatees. I really enjoy building things that bridge the gap between technology and conservation.
+These days, I develop **enterprise web applications for the Department of Veterans Affairs**, helping build technology that serves our nation's veterans. In my personal time, I'm working on several conservation and science projects including my personal pet project [ManateeWatch](https://github.com/karawatts/manateewatch) - a citizen science app that helps users track manatees.
 
-My science background definitely influences how I approach development - I tend to be methodical, love digging into data, and get excited about projects that can make a real-world difference. Always looking to learn new things and work with teams that care about building something meaningful.
+My science background definitely influences how I approach development - I tend to be methodical, love digging into data, and get excited about projects that can make a real-world difference. I'm always looking to learn new things and work with teams that care about building something meaningful.
 
 <div align="center">
 
