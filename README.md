@@ -125,7 +125,7 @@ Focused on projects that combine **technology with conservation impact**:
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**  
 
-💬 **Want to collaborate or just say hi?** Let's talk about **development, conservation tech, or your next project** [here!](#connect_with_me)
+💬 Want to collaborate or just say hi? **Let's talk about development, conservation tech, or your next project** [here!](#connect_with_me)
 
 ---
 
