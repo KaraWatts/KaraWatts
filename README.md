@@ -117,8 +117,6 @@ Focused on projects that combine **technology with conservation impact**:
 
 ---
 
-💬 Let's talk about **tech, animals, or anything else [here!](#connect_with_me)** 
-
 🎯 Currently exploring **React Native for mobile development, Java & Spring Boot, and ML applications**
 
 ✨ When I'm not coding **Hiking 🏔️, Crochet 🧶, Guitar 🎸**  
@@ -126,6 +124,8 @@ Focused on projects that combine **technology with conservation impact**:
 📚 Currently reading **Dungeon Crawler Carl** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)  
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**  
+
+💬 **Want to collaborate or just say hi?** Let's talk about **development, conservation tech, or your next project** [here!](#connect_with_me)
 
 ---
 
