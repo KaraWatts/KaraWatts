@@ -48,7 +48,13 @@ Focused on projects that combine **technology with conservation impact**:
 
 ## 💻 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+<div align="center">
+
 **Languages**
+</div>
 <div align="center">
     <a title = "Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
     <a title = "JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
@@ -56,39 +62,56 @@ Focused on projects that combine **technology with conservation impact**:
     <a title = "Java" href="https://www.oracle.com/java/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=java" alt="java icon"/></a>
     <a title = "R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
 </div>
+<div align="center">
 
 **Frontend & Web Technologies**
+</div>
 <div align="center">
     <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
     <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
 </div>
-
-**Backend**
 <div align="center">
-    <a title = "Django" href="https://www.djangoproject.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
-    <a title = "Spring Boot" href="https://spring.io/projects/spring-boot" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
-</div>
-
-**Database & Cloud**
-<div align="center">
-    <a title = "PostgreSQL" href="https://www.postgresql.org" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
-    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
-</div>
 
 **Machine Learning & Data Science**
+</div>
 <div align="center">
    <a title = "Pandas" href="https://pandas.pydata.org" target="blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas icon"/></a>
     <a title = "NumPy" href="https://numpy.org" target="blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy icon"/></a>
 </div>
 
+</td>
+<td valign="top" width="50%">
+<div align="center">
+
+**Backend**
+</div>
+<div align="center">
+    <a title = "Django" href="https://www.djangoproject.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
+    <a title = "Spring Boot" href="https://spring.io/projects/spring-boot" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
+</div>
+<div align="center">
+
+**Database & Cloud**
+</div>
+<div align="center">
+    <a title = "PostgreSQL" href="https://www.postgresql.org" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
+    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
+</div>
+<div align="center">
+
 **Tools**
+</div>
 <div align="center">
     <a title = "Git" href="https://git-scm.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
     <a title = "GitHub" href="https://github.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
     <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
     <a title = "Jupyter Notebooks" href="https://www.jupyter.com" target="blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
 </div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
