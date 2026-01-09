@@ -14,13 +14,17 @@
     <a title = "GitHub" href="https://github.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
     <a title = "Git" href="https://git-scm.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
     <a title = "Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
+    <a title = "TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=ts" alt="typescript icon"/></a>
     <a title = "JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
     <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
     <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
     <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
     <a title = "PostgreSQL" href="https://www.postgresql.org" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
     <a title = "Django" href="https://www.djangoproject.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
+    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
+    <a title = "Jupyter Notebooks" href="https://www.jupyter.com" target="blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
 </div>
+
 
 
 
@@ -51,9 +55,12 @@ I believe learning is a life-long adventure with opportunities where we least ex
 
 <div align="center">
     <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
-    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
     <a title = "Docker" href="https://www.docker.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=docker" alt="docker icon"/></a>
-    <a title = "Jupyter Notebooks" href="https://www.jupyter.com" target="blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
+    <a title = "Java" href="https://www.java.com/en/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=java" alt="java icon"/></a>
+    <a title = "Spring Boot" href="https://spring.io/projects/spring-boot" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
+
+
+
 
 </div>
 <br>
