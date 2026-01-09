@@ -46,7 +46,7 @@ Focused on projects that combine **technology with conservation impact**:
 
 <div align="center">
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
@@ -130,7 +130,7 @@ Focused on projects that combine **technology with conservation impact**:
 ---
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a>
+    <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a> -->
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaraWatts&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Kara Watts' Most Used Languages" /></a>
 
