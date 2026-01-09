@@ -46,11 +46,11 @@ Focused on projects that combine **technology with conservation impact**:
 
 <div align="center">
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td valign="top" width="50%" style="border: none;">
 <div align="center">
 
 **Languages**
@@ -81,7 +81,7 @@ Focused on projects that combine **technology with conservation impact**:
 </div>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 <div align="center">
 
 **Backend**
