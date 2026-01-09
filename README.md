@@ -1,54 +1,61 @@
-
 <div align="center">
     <img alt='woman working at computer overlooking a nature scape' src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/Banner.png">
-<d/iv>
+</div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaraWatts.visitor-badge&format=true" alt="number of page visitors">
 
 # Kara Watts
 ## Software Developer
 
-### Languages - Frameworks - Tools 
-<div align="center">
-    <a title = "R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
-    <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
-    <a title = "GitHub" href="https://github.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
-    <a title = "Git" href="https://git-scm.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
-</div>
+Hi, I'm Kara 👋. I'm a **full-stack developer** with a unique background in animal behavior science. My coding journey began while developing [AgentGrey](https://github.com/KaraWatts/AgentGrey) for my Master's Thesis, where I discovered my passion for leveraging technology to solve complex research problems. I've since completed comprehensive full-stack training at CodePlatoon, building expertise across the development stack.
 
+My scientific background brings a unique perspective to software development - combining analytical thinking, research methodology, and attention to detail with modern development practices. I specialize in creating data-driven solutions and enjoy tackling challenging problems that bridge technology and scientific innovation.
 
-
-
-
-
-
-Hi, I'm Kara 👋. I'm an animal behaviorist transitioning into the world of software development. I first fell into coding while developing [AgentGrey](https://github.com/KaraWatts/AgentGrey) for my Master's Thesis, and have since been looking for ways to optimize animal sciences through technology.  Diving headfirst into this endeavor I began studying with CodePlatoon where I'm currently building out my full-stack development skills. If you follow my repositories during this transitional period, you'll find a plethora of coding exercises and projects as I hit the ground running.
-
-I believe learning is a life-long adventure with opportunities where we least expect them. As such, I am eager to join an organization with opportunities for growth and innovation where I can apply my skills and passion to further not only my own goals but those of the team.
+I'm passionate about continuous learning and eager to contribute to teams that value innovation, growth, and impactful technology solutions.
 
 
  
  <!-- 🔭 I’m currently working on **a project** -->
  
-💬 Ask me about **Manatee Vision, Dolphin Echolocation, or anything else [here!](#connect_with_me)**
+## 🚀 Featured Projects
 
-✨ Current Hobbies **Learn Japanese 🔰, Crochet 🧶, Guitar 🎸**
+**[AgentGrey](https://github.com/KaraWatts/AgentGrey)** - Computer vision system for marine mammal behavioral research
+- Developed during Master's thesis to analyze manatee behavior patterns
+- Combines image processing with behavioral analysis algorithms
+
+*More projects coming soon as I continue building my portfolio!*
+
+### 💻 Tech Stack
+
+<div align="center">
+    <a title = "R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
+    <a title = "Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
+    <a title = "JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
+    <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
+    <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
+    <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
+    <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
+    <a title = "GitHub" href="https://github.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
+    <a title = "Git" href="https://git-scm.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
+    <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
+</div>
+
+
+
+ 
+ <!-- 🔭 I’m currently working on **a project** -->
+ 
+💬 Ask me about **Marine mammal behavior, Computer vision, Full-stack development, or anything else [here!](#connect_with_me)**
+
+🎯 Currently exploring **Advanced React patterns, Backend frameworks, and ML applications**
+
+✨ When I'm not coding **Learning Japanese 🔰, Crocheting 🧶, Playing Guitar 🎸**
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**
 
 
 
 
-### 👩‍💻 Currently Learning 👩‍💻
-
-<div align="center">
-    <a title = "Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
-    <a title = "JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
-    <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
-    <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
-    <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
-    <a title = "Ubuntu" href="https://ubuntu.com" target="blank"><img height="55" width="55" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/ubuntu.png" alt="Ubuntu icon"/></a>
-</div>
 <br>
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaraWatts&show_icons=true&theme=nightowl" width="400" alt="Kara Watts' GitHub Stats"></a>
