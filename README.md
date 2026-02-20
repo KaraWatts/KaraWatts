@@ -56,28 +56,28 @@ Focused on projects that combine **technology with conservation impact**:
 **Languages**
 </div>
 <div align="center">
-    <a title = "Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
-    <a title = "JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
-    <a title = "TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=ts" alt="typescript icon"/></a>
-    <a title = "Java" href="https://www.oracle.com/java/" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=java" alt="java icon"/></a>
-    <a title = "R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
+    <a title="Python" href="https://docs.python.org/3/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
+    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
+    <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=ts" alt="typescript icon"/></a>
+    <a title="Java" href="https://www.oracle.com/java/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=java" alt="java icon"/></a>
+    <a title="R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
 </div>
 <div align="center">
 
 **Frontend & Web Technologies**
 </div>
 <div align="center">
-    <a title = "React" href="https://react.dev" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
-    <a title = "HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
-    <a title = "CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
+    <a title="React" href="https://react.dev" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
+    <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
+    <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
 </div>
 <div align="center">
 
 **Machine Learning & Data Science**
 </div>
 <div align="center">
-   <a title = "Pandas" href="https://pandas.pydata.org" target="blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas icon"/></a>
-    <a title = "NumPy" href="https://numpy.org" target="blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy icon"/></a>
+   <a title="Pandas" href="https://pandas.pydata.org" target="_blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas icon"/></a>
+    <a title="NumPy" href="https://numpy.org" target="_blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy icon"/></a>
 </div>
 
 </td>
@@ -87,26 +87,26 @@ Focused on projects that combine **technology with conservation impact**:
 **Backend**
 </div>
 <div align="center">
-    <a title = "Django" href="https://www.djangoproject.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
-    <a title = "Spring Boot" href="https://spring.io/projects/spring-boot" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
+    <a title="Django" href="https://www.djangoproject.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
+    <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
 </div>
 <div align="center">
 
 **Database & Cloud**
 </div>
 <div align="center">
-    <a title = "PostgreSQL" href="https://www.postgresql.org" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
-    <a title = "AWS" href="https://aws.amazon.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
+    <a title="PostgreSQL" href="https://www.postgresql.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
+    <a title="AWS" href="https://aws.amazon.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
 </div>
 <div align="center">
 
 **Tools**
 </div>
 <div align="center">
-    <a title = "Git" href="https://git-scm.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
-    <a title = "GitHub" href="https://github.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
-    <a title = "VS Code" href="https://code.visualstudio.com" target="blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
-    <a title = "Jupyter Notebooks" href="https://www.jupyter.com" target="blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
+    <a title="Git" href="https://git-scm.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
+    <a title="GitHub" href="https://github.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
+    <a title="VS Code" href="https://code.visualstudio.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
+    <a title="Jupyter Notebooks" href="https://www.jupyter.com" target="_blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
 </div>
 
 </td>
@@ -138,8 +138,8 @@ Focused on projects that combine **technology with conservation impact**:
 
 ### Click to connect with me and be a part of the adventure
 
-<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
-<a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
+<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="_blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
+<a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
 <a title="Email: kdwwatts@gmail.com" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
 
 </div>
