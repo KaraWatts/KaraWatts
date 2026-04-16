@@ -91,7 +91,7 @@ Focused on projects that combine **technology with conservation impact**:
 
 ✨ When I'm not coding **Hiking 🏔️, Crochet 🧶, Guitar 🎸**  
 
-📚 Currently reading **Dungeon Crawler Carl** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)  
+📚 Currently reading **The Bobiverse - Dennis E. Taylor** [Link up on StoryGraph](https://app.thestorygraph.com/profile/bookaholic307)  
 
 ⚡ Fun fact **Dolphins can see 270 degrees around their head and have 2 pupils per eye 👀**  
 
