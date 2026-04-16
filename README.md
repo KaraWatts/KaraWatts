@@ -48,70 +48,43 @@ Focused on projects that combine **technology with conservation impact**:
 
 ## 💻 Tech Stack
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td valign="top" width="50%" style="border: none;">
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;">
 
-**Languages**
-</div>
-<div align="center">
-    <a title="Python" href="https://docs.python.org/3/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=python" alt="python icon"/></a>
-    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/></a>
-    <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=ts" alt="typescript icon"/></a>
-    <a title="Java" href="https://www.oracle.com/java/" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=java" alt="java icon"/></a>
-    <a title="R" href="https://www.r-project.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=r" alt="R icon"/></a>
-</div>
-<div align="center">
+### Languages
+<a title="Python" href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+<a title="Java" href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a title="R" href="https://www.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+### Frontend
+<a title="React" href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+<a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 
-**Frontend & Web Technologies**
-</div>
-<div align="center">
-    <a title="React" href="https://react.dev" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=react" alt="react icon"/></a>
-    <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=html" alt="HTML icon"/></a>
-    <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=css" alt="css icon"/></a>
-</div>
-<div align="center">
+### Data Science
+<a title="Pandas" href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a title="NumPy" href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
 
-**Machine Learning & Data Science**
 </div>
-<div align="center">
-   <a title="Pandas" href="https://pandas.pydata.org" target="_blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas icon"/></a>
-    <a title="NumPy" href="https://numpy.org" target="_blank"><img height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy icon"/></a>
-</div>
+<div style="width: 48%;">
 
-</td>
-<td valign="top" width="50%" style="border: none;">
-<div align="center">
+### Backend & Database
+<a title="Django" href="https://www.djangoproject.com" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+<a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/></a>
+<a title="PostgreSQL" href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 
-**Backend**
-</div>
-<div align="center">
-    <a title="Django" href="https://www.djangoproject.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=django" alt="django icon"/></a>
-    <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=spring" alt="spring boot icon"/></a>
-</div>
-<div align="center">
+### Cloud & Tools
+<a title="AWS" href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+<a title="Git" href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a title="GitHub" href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a title="VS Code" href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+<a title="Jupyter" href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
 
-**Database & Cloud**
 </div>
-<div align="center">
-    <a title="PostgreSQL" href="https://www.postgresql.org" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon"/></a>
-    <a title="AWS" href="https://aws.amazon.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=aws" alt="aws icon"/></a>
-</div>
-<div align="center">
-
-**Tools**
-</div>
-<div align="center">
-    <a title="Git" href="https://git-scm.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=git" alt="git icon"/></a>
-    <a title="GitHub" href="https://github.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=github" alt="GitHub icon"/></a>
-    <a title="VS Code" href="https://code.visualstudio.com" target="_blank"><img height="55" width="55" src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon"/></a>
-    <a title="Jupyter Notebooks" href="https://www.jupyter.com" target="_blank"><img height="55" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="jupyter notebooks icon"/></a>
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
