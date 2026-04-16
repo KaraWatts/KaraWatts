@@ -138,8 +138,9 @@ Focused on projects that combine **technology with conservation impact**:
 
 ### Click to connect with me and be a part of the adventure
 
-<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="_blank"><img align="center" src="https://raw.github.com/KaraWatts/KaraWatts/master/Resources/twitterLogo.png" alt="https://twitter.com/KDWWatts" height="70" width="70" /></a>
-<a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karadwwatts/" height="60" width="80"  /></a>
-<a title="Email: kdwwatts@gmail.com" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img width="64" align="center" alt="kdwwatts@gmail.com" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/64px-Mail_%28iOS%29.svg.png"></a>
+<a title="Twitter: @KaraWatts" href="https://twitter.com/KDWWatts" target="_blank"><img align="center" src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=x" alt="https://twitter.com/KDWWatts"/></a>
+<a title="LinkedIn: Kara D W Watts" href="https://www.linkedin.com/in/karadwwatts/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="https://www.linkedin.com/in/karadwwatts/" /></a>
+<a title="Email: kdwwatts@gmail.com" href="mailto:kdwwatts@gmail.com?subject=[GitHub]"><img  align="center" alt="kdwwatts@gmail.com" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=minutemailer"></a>
+
 
 </div>
